@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Thinkpad/Desktop/toolset.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/toolSet/toolset.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.android.db.transfer"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.base.common.sql.jdbc"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.jee.spring.mapper"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.android.http.handler"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.base.common.annotation"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.relyother.office.demo"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.android.domain"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.android.db.handler"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.jee.fusioncharts"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.base.common.store"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.base.common.xml"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.relyother.office"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.android.http"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.android.http.domain"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.jee.hightcharts.domain"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.jee.fusioncharts.multi"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.relyother.office.word"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.base.common.file"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.relyother.rrd4j"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.relyother.office.ppt"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.jee.fusioncharts.single"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.android.db"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.base.common.sql.adapter"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.android.db.handler.impl"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.android.db.factory"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.base.common.domain"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.jee.extjs"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.jee.easyui"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.relyother.office.excel"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.android.util"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.jee.spring.service"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.base.common.util"/>
+        <javaElement handleIdentifier="=toolSet/src&lt;cn.com.yws.toolset.base.common.date"/>
+    </selectedElements>
+</jardesc>
